@@ -1,0 +1,13 @@
+.passwordmanager-app-container {
+    background-color: #9ba9eb;
+    width: 100vw;
+    min-height: 100vh;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+  }
+
+  .image-logo {
+    width: 220px;
+  }

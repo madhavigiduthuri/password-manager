@@ -1,0 +1,124 @@
+.main-container {
+    padding: 20px;
+    min-height: 500px;
+    background-color: #5763a5;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.heading-section {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
+.filter-section {
+    height: 50px;
+    width: 100%;
+    padding: 7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.unordered-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.header-left {
+    width: 200px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.header-right {
+    height: 40px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.filter-right {
+    height: 35px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    color: white;
+    font-weight: 400;
+}
+
+.header {
+    font-size: 20px;
+    color: white;
+}
+
+.passwords-count-wrap {
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+}
+
+.passwords-count {
+    font-size: 10px;
+    color: white;
+}
+
+.input-left-image-box {
+    width: 40px;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid grey;
+}
+
+.search-icon {
+    height: 20px;
+    width: 20px;
+}
+
+.header-input {
+    width: 160px;
+    height: 100%;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+.no-password-image {
+    width: 300px !important;
+}
+
+.no-pwds-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* width: 100%; */
+}
+
+.no-pwd-text {
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+}

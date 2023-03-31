@@ -1,0 +1,34 @@
+.input-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 0.5px solid #c3caea;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 20px;
+    width: 100%;
+    height: 50px;
+  }
+
+  .icon-image {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    border-right: 1px solid #5763a5;
+
+}
+
+.input {
+    height: 40px;
+    width: 100%;
+    border: none;
+    outline: none;
+    padding-left: 15px;
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+/* .hr-line {
+    height: 50px;
+    border: 0.25px solid #5763a5;
+} */
